@@ -3,7 +3,7 @@ title: "Producto 3"
 excerpt: "Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas dictumst pulvinar neque enim non potenti. Torquent hac sociosqu eleifend potenti."
 publishDate: "2022-11-07T15:39:36.050Z"
 image: "https://instagram.feoh3-1.fna.fbcdn.net/v/t51.2885-15/300632321_830900787899112_4227123422959348858_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.feoh3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=ZVoUz149s4QAX8ATgUG&edm=AGenrX8BAAAA&ccb=7-5&oh=00_AfBnb44Za6ZwYY7S2fCVn9RGn28Msdjotm3Sj0eYEQujbw&oe=63FC1C9A&_nc_sid=5eceaa"
-category: "travel"
+category: "Licor"
 author: "erika-oliver"
 tags: [astro, tailwindcss, frontend]
 ---

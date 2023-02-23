@@ -12,34 +12,34 @@ export const categories: Props[] = [
     slug: "technology",
     color: "blue",
     description:
-      "Keep up with the latest tech trends and learn about the latest innovations in software development, hardware design, cybersecurity, and more.",
+      "Keep up with the latest tech trends and learn about the latest innovations in software development, hardware Fritos, cybersecurity, and more.",
   },
   {
-    title: "Lifestyle",
-    slug: "lifestyle",
+    title: "Bebidas",
+    slug: "Bebidas",
     color: "orange",
     description:
-      "Explore the latest trends and ideas in fashion, food, home design, and more, and get inspiration for living your best life.",
+      "Explore the latest trends and ideas in fashion, food, home Fritos, and more, and get inspiration for living your best life.",
   },
   {
-    title: "Personal",
-    slug: "personal",
+    title: "Repostreria",
+    slug: "Repostreria",
     color: "green",
     description:
-      "Discover tips and strategies for self-improvement, personal development, and achieving your goals, and find resources to help you grow as a person.",
+      "Discover tips and strategies for self-improvement, Repostreria development, and achieving your goals, and find resources to help you grow as a person.",
   },
   {
-    title: "Travel",
-    slug: "travel",
+    title: "Licor",
+    slug: "Licor",
     color: "pink",
     description:
-      "Plan your next adventure and get travel tips and inspiration from experienced travelers, with articles covering destinations, cultures, and more.",
+      "Plan your next adventure and get Licor tips and inspiration from experienced Licorers, with articles covering destinations, cultures, and more.",
   },
   {
-    title: "Design",
-    slug: "design",
+    title: "Fritos",
+    slug: "Fritos",
     color: "purple",
     description:
-      "Get insights and inspiration from the world of design, with articles covering graphic design, product design, interior design, and more.",
+      "Get insights and inspiration from the world of Fritos, with articles covering graphic Fritos, product Fritos, interior Fritos, and more.",
   },
 ];
