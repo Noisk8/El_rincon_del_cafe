@@ -7,16 +7,18 @@ import Pagetitle from "@components/pagetitle.astro";
 import Link from "@components/ui/link.astro";
 ---
 
-<Layout title="About">
+<Layout title="Nosotros">
   <Container>
     <Pagetitle>
-      <Fragment slot="title">About</Fragment>
-      <Fragment slot="desc">We are a small passionate team.</Fragment>
+      <Fragment slot="title">Acerca de nosostros</Fragment>
+      <Fragment slot="desc">El Rincón del cafe</Fragment>
     </Pagetitle>
 
     <div class="grid md:grid-cols-3 gap-10 mx-auto max-w-4xl mt-12">
       {
-        authors.slice(0, 3).map((item) => (
+        authors.slice(0, 2).map((item) => (
+
+
           <div class="group">
             <div class="w-full aspect-square">
               <Image
@@ -39,12 +41,9 @@ import Link from "@components/ui/link.astro";
 
     <div class="mx-auto max-w-xl text-center mt-14">
       <p class="text-lg leading-relaxed text-gray-600">
-        We're a multi-cultural team from around the world! We come from diverse
-        backgrounds, bringing different Repostreriaities, experiences and skills to
-        the job. This is what makes our team so special.
+        El Rincón del Café es un lugar acogedor con decoración rústica, música suave y opciones variadas de café. Ideal para compartir momentos agradables en compañía de amigos y familiares.
       </p>
       <div class="mt-8">
-        <Link href="/contact" style="primary">Get in touch</Link>
       </div>
     </div>
   </Container>

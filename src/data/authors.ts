@@ -9,21 +9,17 @@ export type Author = Props;
 
 export const authors: Props[] = [
   {
-    name: "Mario Sanchez",
-    slug: "mario-sanchez",
+    name: "Paula Garcia",
+    slug: "paula-garcia",
     image: "./src/assets/authors/mario.webp",
-    bio: "Mario is a Staff Engineer specialising in Frontend at Vercel, as well as being a co-founder of Acme and the content management system Sanity. Prior to this, he was a Senior Engineer at Apple.",
+    bio: "Emprendedora profesional con más de 10 años de xperiencia en el area administrativo y contable",
   },
   {
-    name: "Joshua Wood",
-    slug: "joshua-wood",
+    name: "Juan David Magrigal",
+    slug: "juan-david-magrigal",
     image: "./src/assets/authors/joshua.webp",
-    bio: "Joshua is a Microsoft Azure Certified Cloud Professional and a Google Certified Associate Cloud Engineer. A Data Analytics at Acme, specializing in the use of cloud infrastructure for Machine Learning and Deep Learning operation at scale.",
+    bio: "Emprendedor profesional, chef con experiencia en catering",
   },
-  {
-    name: "Erika Oliver",
-    slug: "erika-oliver",
-    image: "./src/assets/authors/erika.webp",
-    bio: "Erika Oliver is a successful entrepreuner. She is the founder of Acme Inc, a bootstrapped business that builds affordable SaaS tools for local news, indie publishers, and other small businesses.",
-  },
+  
+ 
 ];
