@@ -8,7 +8,7 @@
 
 - Tinto | $ 1.300 - 2.300 - 3.300
 
--  Expreso | $ 3.000 
+- Expreso | $ 3.000 
 
 - Café con leche | $ 2.500 
 
@@ -20,7 +20,7 @@
 
 - Carajillo | $ 5.000 
 
-- vienes | $ 5.000
+- Vienés | $ 5.000
 
 - Irlandes | $ 5.500
 
@@ -77,7 +77,6 @@
 - Limonada Natural | $ 5.000
 
 - Limonadas | $ 5.000
-
   - Cereza, coco, Yerbabuena
 
 - Papas Y Platanos  | $ 3.000

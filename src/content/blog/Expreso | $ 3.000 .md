@@ -1,5 +1,5 @@
 ---
-title: "Producto 2"
+title: "Expreso | $ 3.000"
 excerpt: "Some description"
 publishDate: "2022-11-24T11:39:36.050Z"
 image: "https://instagram.feoh3-1.fna.fbcdn.net/v/t51.2885-15/303819606_1436503383510622_4918793100644359523_n.jpg?stp=dst-jpg_e35_s1080x1080&_nc_ht=instagram.feoh3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=mtOgmAm-XAYAX80i2hx&edm=AGenrX8BAAAA&ccb=7-5&oh=00_AfBoMFLi-JcNqNkP9rPMc5oQAVgAuozRzZw1UxDpJKYl4Q&oe=63FAD868&_nc_sid=5eceaa"

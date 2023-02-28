@@ -1,8 +1,8 @@
 ---
-title: " Producto 1"
+title: "Mocca | $ 7.000"
 excerpt: "Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas dictumst pulvinar neque enim non potenti. Torquent hac sociosqu eleifend potenti."
 publishDate: "2022-11-09T16:39:36.050Z"
-image: "https://raw.githubusercontent.com/Noisk8/El_rincon_del_cafe/main/img/torta1.jpg"
+image: "https://instagram.feoh3-1.fna.fbcdn.net/v/t51.2885-15/327161020_204214492161772_5410389140411573614_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.feoh3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=c37NLjuoLUYAX81T3Rm&edm=AGenrX8BAAAA&ccb=7-5&oh=00_AfBCdbVJiGXikAPLl5zyZbffCBEneuNCgQc3rhVLoRhWhw&oe=63F8C08B&_nc_sid=5eceaa"
 category: "Fritos"
 author: "joshua-wood"
 tags: [webdev, tailwindcss, frontend]
