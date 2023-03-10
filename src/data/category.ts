@@ -8,38 +8,38 @@ export type Category = Props;
 
 export const categories: Props[] = [
   {
-    title: "Technology",
-    slug: "technology",
+    title: "Horneados",
+    slug: "horneados",
     color: "blue",
     description:
-      "Keep up with the latest tech trends and learn about the latest innovations in software development, hardware Fritos, cybersecurity, and more.",
+      "",
   },
   {
-    title: "Bebidas",
+    title: "Cafés Fríos",
     slug: "Bebidas",
     color: "orange",
     description:
-      "Explore the latest trends and ideas in fashion, food, home Fritos, and more, and get inspiration for living your best life.",
+      "",
   },
   {
-    title: "Repostreria",
+    title: "Cafes Calientes",
     slug: "Repostreria",
     color: "green",
     description:
-      "Discover tips and strategies for self-improvement, Repostreria development, and achieving your goals, and find resources to help you grow as a person.",
+      "",
   },
   {
-    title: "Licor",
+    title: "Extras",
     slug: "Licor",
     color: "pink",
     description:
-      "Plan your next adventure and get Licor tips and inspiration from experienced Licorers, with articles covering destinations, cultures, and more.",
+      "",
   },
   {
-    title: "Fritos",
+    title: "Con Licor",
     slug: "Fritos",
     color: "purple",
     description:
-      "Get insights and inspiration from the world of Fritos, with articles covering graphic Fritos, product Fritos, interior Fritos, and more.",
+      "",
   },
 ];
